@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    
+} 
+.div-bagimg{
+    background-image: url(banner1.png);
+   background-size:cover;
+   osition: absolute;
+   width: 1600px;
+   height: 808px;
+   left: 1600px;
+   top: 808px;
+  
+}
+.H1{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: left;
+    padding: 250px 845px 24px 364px;
+}
+p{
+  padding-inline-start:360px;
+width: 494px;
+height: 78px;
+right: 670px;
+top: 400px;
+color: gold;
+
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align:left
+
+}
+
+
+
