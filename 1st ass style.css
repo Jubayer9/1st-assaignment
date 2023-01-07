@@ -1,18 +1,19 @@
-*{
+* {
     margin: 0px;
-    
-} 
-.div-bagimg{
-    background-image: url(banner1.png);
-   background-size:cover;
-   osition: absolute;
-   width: 1600px;
-   height: 808px;
-   left: 1600px;
-   top: 808px;
-  
+
 }
-.H1{
+
+.div-bagimg {
+    background-image: url(banner1.png);
+    background-size: cover;
+    width: 1600px;
+    height: 808px;
+    left: 1600px;
+    top: 808px;
+
+}
+
+.H1 {
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
@@ -21,23 +22,37 @@
     text-align: left;
     padding: 250px 845px 24px 364px;
 }
-p{
-  padding-inline-start:360px;
-width: 494px;
-height: 78px;
-right: 670px;
-top: 400px;
-color: gold;
+
+p {
+    padding-inline-start: 360px;
+    width: 494px;
+    height: 78px;
+    right: 670px;
+    top: 400px;
+    color: #444343;
 
 
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-text-align:left
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left
+}
+
+.but {
+    width: 90px;
+    height: 50px;
+    right: 100px;
+margin-left:360px ;
+    text-align: left;
+    left: 1210px;
+   color: rgb(255, 255, 255);
+   background-color: #F15B22;
+   border-style: none;
 
 }
+
 
 
 
