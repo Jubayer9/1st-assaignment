@@ -44,15 +44,75 @@ p {
     width: 90px;
     height: 50px;
     right: 100px;
-margin-left:360px ;
+    margin-left: 360px;
     text-align: left;
     left: 1210px;
-   color: rgb(255, 255, 255);
-   background-color: #F15B22;
-   border-style: none;
+    color: rgb(255, 255, 255);
+    background-color: #F15B22;
+    border-style: none;
+}
+
+.part-2 {
+    background-image: url(../images/person.png);
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.pera {
+    position: absolute;
+    width: 415px;
+    height: 105px;
+    left: 500px;
+    top: 1295px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    right: 962px;
+}
+
+img {
+    position: absolute;
+    width: 570px;
+    height: 720.3px;
+    left: 200px;
+    top: 940px;
+}
+
+.section-title {
+    padding: 995px 710px 103px 711px;
+    font-size: 50px;
+}
+
+.section-title {
+    font-size: 50px;
 
 }
 
+.samp {
+    color: #F15B22;
+}
 
+.skills-container {
+    display: flex;
+    gap: 24px;
+}
 
+.skill-title {
+    font-weight: 700px;
 
+    font-size: 30px;
+}
+
+.a {}
